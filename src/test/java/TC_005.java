@@ -4,5 +4,6 @@ public class TC_005 {
 
         System.out.println("Added test");
         // wrong code line
+        // wrong code line
     }
 }
